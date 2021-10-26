@@ -9,4 +9,6 @@ if (array.indexOf(text)!=-1){
 
 }
 
-console.log(findArrayIndex(arr,'Salamandra'))
+console.log(findArrayIndex(arr,'Salamandra')) // posicion 2
+console.log(findArrayIndex(arr,'Mosquito')) // posicion 1
+console.log(findArrayIndex(arr,'Mito')) // No encontrado. 
